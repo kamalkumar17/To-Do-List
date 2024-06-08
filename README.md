@@ -1,5 +1,5 @@
 # To-Do-List
-In this project, we'll create a simple yet effective to-do list application using HTML, CSS, and JavaScript. The application will allow users to add, remove, and mark tasks as completed.
+In this project, we'll create a simple yet effective to-do list application using HTML, CSS, and JavaScript. The application will allow users to add, remove, and mark tasks as completed.we can Remove the task After completed. 
 
 
 ![Screenshot 2024-06-08 190131](https://github.com/kamalkumar17/To-Do-List/assets/160104271/0b3dffce-f7f0-4b4e-928c-333d94a30d51)
